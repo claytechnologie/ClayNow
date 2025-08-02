@@ -1,4 +1,4 @@
-# 🤖 ClayNow - Intelligenter KI-Assistent
+# ClayNow 
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 **Der fortschrittlichste deutschsprachige KI-Assistent für Windows**
 
-[🚀 Download](#-installation) • [📖 Funktionen](#-hauptfunktionen) • [🎤 Sprachsteuerung](#-sprachsteuerung) • [⚙️ Konfiguration](#-konfiguration) • [🆘 Support](#-support)
+[🚀 Download](#-installation) • [📖 Funktionen](#-hauptfunktionen) • [🆘 Support](#-support)
 
 </div>
 
@@ -22,9 +22,6 @@
 - [🎤 Sprachsteuerung](#-sprachsteuerung)
 - [🌐 Web-Interface](#-web-interface)
 - [💡 LED-Unterstützung](#-led-unterstützung)
-- [📧 Email-Manager](#-email-manager)
-- [⚙️ Konfiguration](#-konfiguration)
-- [🔧 Systemanforderungen](#-systemanforderungen)
 - [🆘 Support](#-support)
 
 ---
@@ -111,9 +108,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) f�
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/claytechnologie/ClayNowCode/issues)
-- **Dokumentation**: [Wiki](https://github.com/claytechnologie/ClayNowCode/wiki)
-- **Website**: [claytechnologie.com](https://claytechnologie.com)
+- **Issues**: Email: lilias.ge@gmail.com
 
 ---
-**Entwickelt von ClayTechnologie** | **Powered by OpenAI & Qt5**
+**Entwickelt von ClayTechnologie** | **Powered by OpenAI**
