@@ -3,7 +3,7 @@
 <div align="center">
 
 ![ClayNow Logo](https://img.shields.io/badge/ClayNow-AI%20Assistant-blue?style=for-the-badge&logo=robot)
-[![Version](https://img.shields.io/badge/Version-4.2.0-green?style=for-the-badge)](https://github.com/claytechnologie/ClayNowCode)
+[![Version](https://img.shields.io/badge/Version-5.0.4-green?style=for-the-badge)](https://github.com/claytechnologie/ClayNowCode)
 [![License](https://img.shields.io/badge/License-ClayTechnologies-orange?style=for-the-badge)](https://claytechnologies.com)
 
 **Der fortschrittlichste deutschsprachige KI-Assistent für Windows**
